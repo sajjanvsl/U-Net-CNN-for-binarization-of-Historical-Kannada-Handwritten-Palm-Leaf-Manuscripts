@@ -1,3 +1,7 @@
+Paper Implement on this
+https://jodac.org/u-net-convolutional-neural-network-for-binarization-of-historical-kannada-handwritten-palm-leaf-manuscripts/
+
+
 # [LS-HDIB Dataset](https://kaustubh-sadekar.github.io/LS-HDIB/)
 LS-HDIB: A Large Scale Handwritten Document Image Binarization Dataset
 
